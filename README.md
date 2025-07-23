@@ -18,14 +18,6 @@ It helps understand trends in sales growth, budget achievement, and customer beh
 
 ---
 
-## 📂 Project Files:
-- `Smartwatch_Sales_Dashboard.pbix` → Power BI dashboard file
-- `Dataset.xlsx` → Source dataset used (if applicable)
-- `Screenshot.png` → Dashboard preview image
-
----
-
-
 ## 🛠️ Tools Used:
 - Microsoft Power BI
 - Microsoft Excel (for data preparation)
